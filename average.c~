@@ -1,0 +1,7 @@
+#include<stdio.h>
+#include "average.h"
+
+int average(int payments[])
+{
+	return 0;
+}
